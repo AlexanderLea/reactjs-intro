@@ -1,0 +1,31 @@
+{
+  "name": "reactjs-intro",
+  "version": "1.0.0",
+  "description": "Intro for me to learn react",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderLea/reactjs-intro.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Alexander Lea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexanderLea/reactjs-intro/issues"
+  },
+  "homepage": "https://github.com/AlexanderLea/reactjs-intro#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.7.4",
+    "babel-loader": "^6.2.4",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "react": "^0.14.8",
+    "webpack": "^1.12.14"
+  }
+}
